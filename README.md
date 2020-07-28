@@ -1,7 +1,7 @@
 # .Net Core 3.1 MVC REST API
 
 ## PART 1 - FIRST 2 API ENDPOINTS (GET / READ)
-- ~~Project Setup~~
+- [v0.0.1][v0.0.1] :  ~~Project Setup~~ 
 - Create our Domain Model (Command)
 - Build Our Repository Interface
 - Implement our Repository Interface (Mock Reposiory)
@@ -58,3 +58,5 @@
 
 [les-jackson-youtube]: https://www.youtube.com/channel/UCIMRGVXufHT69s1uaHHYJIA
 [tutorial]: https://www.youtube.com/watch?v=fmvcAzHpsk8
+
+[v0.0.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.1
