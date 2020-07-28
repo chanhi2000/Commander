@@ -10,10 +10,10 @@
 - [v0.0.6][v0.0.6] :  ~~Using Dependency Injection~~
 
 ## PART 2 - ENTITY FRAMEWORK & SQL SERVER
-- Architecture Checkpoint
-- Set Up SQL Server App Login
-- Entityframework Packages
-- Entityframework Toolset
+- ~~Architecture Checkpoint~~
+- ~~Set Up SQL Server App Login~~
+- [v0.1.0][v0.1.0] : ~~Entityframework Packages~~
+- ~~Entityframework Toolset~~
 - Create our Database Context (CommanderContext)
 - Our Database Connecttion String
 - Register our DB Context in Startup
@@ -59,6 +59,13 @@
 dotnet run
 ```
 
+##  Entityframework Toolset : `dotnet-ef`
+ - to install
+
+ ```shell
+ dotnet tool install --global dotnet-ef
+ ```
+
 ## Endpoint to Test
  - `/api/commands/`
  - `/api/commands/{id}`
@@ -78,3 +85,4 @@ dotnet run
 [v0.0.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.4
 [v0.0.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.5
 [v0.0.6]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.6
+[v0.1.0]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.0
