@@ -2,7 +2,7 @@
 
 ## PART 1 - FIRST 2 API ENDPOINTS (GET / READ)
 - [v0.0.1][v0.0.1] :  ~~Project Setup~~ 
-- Create our Domain Model (Command)
+- [v0.0.2][v0.0.2] :  ~~Create our Domain Model (Command)~~
 - Build Our Repository Interface
 - Implement our Repository Interface (Mock Reposiory)
 - Create our Controller (CommandsController)
@@ -60,3 +60,4 @@
 [tutorial]: https://www.youtube.com/watch?v=fmvcAzHpsk8
 
 [v0.0.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.1
+[v0.0.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.2
