@@ -4,7 +4,7 @@
 - [v0.0.1][v0.0.1] :  ~~Project Setup~~ 
 - [v0.0.2][v0.0.2] :  ~~Create our Domain Model (Command)~~
 - [v0.0.3][v0.0.3] :  ~~Build Our Repository Interface~~
-- Implement our Repository Interface (Mock Reposiory)
+- [v0.0.4][v0.0.4] :  ~~Implement our Repository Interface (Mock Reposiory)~~
 - Create our Controller (CommandsController)
 - Create 2x API Endpoints
 - Using Dependency Injection
@@ -62,3 +62,4 @@
 [v0.0.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.1
 [v0.0.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.2
 [v0.0.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.3
+[v0.0.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.4
