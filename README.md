@@ -5,7 +5,7 @@
 - [v0.0.2][v0.0.2] :  ~~Create our Domain Model (Command)~~
 - [v0.0.3][v0.0.3] :  ~~Build Our Repository Interface~~
 - [v0.0.4][v0.0.4] :  ~~Implement our Repository Interface (Mock Reposiory)~~
-- Create our Controller (CommandsController)
+- [v0.0.5][v0.0.5] :  ~~Create our Controller (CommandsController)~~
 - Create 2x API Endpoints
 - Using Dependency Injection
 
@@ -51,6 +51,19 @@
 - Add 5th API Endpoint for Updating (PATCH Request)
 - Add 6th API Endpoint for Deleting (DELETE Request)
 
+
+## Build & Run
+ - run the following commands
+
+```shell
+dotnet run
+```
+
+## Endpoint to Test
+ - `/api/commands/`
+ - `/api/commands/{id}`
+
+
 ## Reference
  - [Les Jackson][les-jackson-youtube] 
  - [Tutorial][tutorial]
@@ -63,3 +76,4 @@
 [v0.0.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.2
 [v0.0.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.3
 [v0.0.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.4
+[v0.0.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.5
