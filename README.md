@@ -14,7 +14,7 @@
 - ~~Set Up SQL Server App Login~~
 - [v0.1.0][v0.1.0] : ~~Entityframework Packages~~
 - ~~Entityframework Toolset~~
-- Create our Database Context (CommanderContext)
+- [v0.1.1][v0.1.1] : ~~Create our Database Context (CommanderContext)~~
 - Our Database Connecttion String
 - Register our DB Context in Startup
 - Create Migrations
@@ -86,3 +86,4 @@ dotnet run
 [v0.0.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.5
 [v0.0.6]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.0.6
 [v0.1.0]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.0
+[v0.1.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.1
