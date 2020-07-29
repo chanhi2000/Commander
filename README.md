@@ -20,10 +20,10 @@
 - ~~Create Migrations~~
 - ~~Cancel Migrations & revist Command Model~~
 - [v0.1.4][v0.1.4] :  ~~Add Data Validations to Command Model~~
-- Create Migrations (Again!)
-- Run Migrations against Database
-- Add Data to Database
-- Revist Our Repository to use DB Context
+- ~~Create Migrations (Again!)~~
+- ~~Run Migrations against Database~~
+- ~~Add Data to Database~~
+- [v0.1.5][v0.1.5] :  ~~Revist Our Repository to use DB Context~~
 
 ## PART 3 - DATA TRANSFER OBJECTS & CREATE ENDPOINT
 - Architecture Checkpoint
@@ -73,9 +73,28 @@ dotnet run
  ```
 
   -  to undo migrations
+
 ```shell
- dotnet ef migrations remove
+dotnet ef migrations remove
 ```
+
+  - to run update on database
+
+```shell
+dotnet ef database update
+```
+
+## Note
+- Run following query for Enable Insert Then Disable
+
+```sql
+set IDENTITY_INSERT Commands ON;
+...
+/*ADD DATA HERE*/
+...
+set IDENTITY_INSERT Commands OFF;
+```
+
 
 ## Endpoint to Test
  - `/api/commands/`
@@ -101,3 +120,4 @@ dotnet run
 [v0.1.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.2
 [v0.1.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.3
 [v0.1.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.4
+[v0.1.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.5
