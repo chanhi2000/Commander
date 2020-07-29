@@ -17,9 +17,9 @@
 - [v0.1.1][v0.1.1] :  ~~Create our Database Context (CommanderContext)~~
 - [v0.1.2][v0.1.2] :  ~~Our Database Connecttion String~~
 - [v0.1.3][v0.1.3] :  ~~Register our DB Context in Startup~~
-- Create Migrations
-- Cancel Migrations & revist Command Model
-- Add Data Validations to Command Model
+- ~~Create Migrations~~
+- ~~Cancel Migrations & revist Command Model~~
+- [v0.1.4][v0.1.4] :  ~~Add Data Validations to Command Model~~
 - Create Migrations (Again!)
 - Run Migrations against Database
 - Add Data to Database
@@ -65,6 +65,17 @@ dotnet run
  ```shell
  dotnet tool install --global dotnet-ef
  ```
+  
+  - to create migrations
+
+ ```shell
+ dotnet ef migrations add InitialMigration
+ ```
+
+  -  to undo migrations
+```shell
+ dotnet ef migrations remove
+```
 
 ## Endpoint to Test
  - `/api/commands/`
@@ -89,3 +100,4 @@ dotnet run
 [v0.1.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.1
 [v0.1.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.2
 [v0.1.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.3
+[v0.1.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.4
