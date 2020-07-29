@@ -16,7 +16,7 @@
 - ~~Entityframework Toolset~~
 - [v0.1.1][v0.1.1] :  ~~Create our Database Context (CommanderContext)~~
 - [v0.1.2][v0.1.2] :  ~~Our Database Connecttion String~~
-- Register our DB Context in Startup
+- [v0.1.3][v0.1.3] :  ~~Register our DB Context in Startup~~
 - Create Migrations
 - Cancel Migrations & revist Command Model
 - Add Data Validations to Command Model
@@ -88,3 +88,4 @@ dotnet run
 [v0.1.0]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.0
 [v0.1.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.1
 [v0.1.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.2
+[v0.1.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.3
