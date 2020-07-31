@@ -7,4 +7,4 @@ namespace Commander.Dtos
         public string Line { get; set; }
         public string Platform { get; set; }
     }
-}
+} 
