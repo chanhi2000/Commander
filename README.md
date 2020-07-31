@@ -39,7 +39,7 @@
 - [v0.3.1][v0.3.1] :  ~~Create a New DTO (for Creating)~~
 - [v0.3.2][v0.3.2] :  ~~Create 3rd API Endpoint to Create Resources~~
 - [v0.3.3][v0.3.3] :  ~~Use CreatedAtRoute to return 201 CreatedAtRoute~~
-- Add Annotations to DTO to avoid 500 Errors
+- [v0.3.4][v0.3.4] :  ~~Add Annotations to DTO to avoid 500 Errors~~
 - Update Repository to Support Updates
 - Add a New DTO (for Updating)
 - Add 4th API Endpoint for Updating (PUT Request)
@@ -129,3 +129,4 @@ set IDENTITY_INSERT Commands OFF;
 [v0.3.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.1
 [v0.3.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.2
 [v0.3.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.3
+[v0.3.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.4
