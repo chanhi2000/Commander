@@ -34,8 +34,8 @@
 - [v0.2.3][v0.2.3] : ~~Updating Our Action Results to use DTOs~~
 
 ## PART 4 - PUT, PATCH & DELETE API ENDPOINTS
-- Architecture Checkpoint
-- Updating our Repository for Creating Resources
+- ~~Architecture Checkpoint~~
+- [v0.3.0][v0.3.0] :   ~~Updating our Repository for Creating Resources~~
 - Create a New DTO (for Creating)
 - Create 3rd API Endpoint to Create Resources
 - Use CreatedAtRoute to return 201 CreatedAtRoute
@@ -125,3 +125,4 @@ set IDENTITY_INSERT Commands OFF;
 [v0.2.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.2.1
 [v0.2.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.2.2
 [v0.2.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.2.3
+[v0.3.0]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.0
