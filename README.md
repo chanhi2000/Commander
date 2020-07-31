@@ -28,8 +28,8 @@
 ## PART 3 - DATA TRANSFER OBJECTS & CREATE ENDPOINT
 - ~~Architecture Checkpoint~~
 - ~~Why Data Transfer Objects?~~
-- [v0.2.0][v0.2.0] : ~~AutoMapper Package & Startup Registration~~
-- Create our first DTO
+- [v0.2.0][v0.2.0]  : ~~AutoMapper Package & Startup Registration~~
+- [v0.2.1][v0.2.1] : ~~Create our first DTO~~
 - Creating a mapping Profile
 - Updating Our Action Results to use DTOs
 
@@ -122,3 +122,4 @@ set IDENTITY_INSERT Commands OFF;
 [v0.1.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.4
 [v0.1.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.1.5
 [v0.2.0]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.2.0
+[v0.2.1]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.2.1
