@@ -46,7 +46,7 @@
 - [v0.3.7][v0.3.7] :  ~~Update our AutoMapper Profile~~
 - ~~Overview of PATCH~~
 - [v0.3.8][v0.3.8] :  ~~Install 2x packages to support PATCH~~
-- Update Startup
+- [v0.3.9][v0.3.9] :  ~~Update Startup~~
 - Update our AutoMapper Profile (Final Update)
 - Add 5th API Endpoint for Updating (PATCH Request)
 - Add 6th API Endpoint for Deleting (DELETE Request)
@@ -135,3 +135,4 @@ set IDENTITY_INSERT Commands OFF;
 [v0.3.6]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.6
 [v0.3.7]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.7
 [v0.3.8]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.8
+[v0.3.9]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.9
