@@ -130,8 +130,7 @@ set IDENTITY_INSERT Commands OFF;
 [v0.3.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.2
 [v0.3.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.3
 [v0.3.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.4
-[v0.3.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.
-5
+[v0.3.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.5
 [v0.3.6]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.6
 [v0.3.7]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.7
 [v0.3.8]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.8
