@@ -41,7 +41,7 @@
 - [v0.3.3][v0.3.3] :  ~~Use CreatedAtRoute to return 201 CreatedAtRoute~~
 - [v0.3.4][v0.3.4] :  ~~Add Annotations to DTO to avoid 500 Errors~~
 - [v0.3.5][v0.3.5] :  ~~Update Repository to Support Updates~~
-- Add a New DTO (for Updating)
+- [v0.3.6][v0.3.6] :  ~~Add a New DTO (for Updating)~~
 - Add 4th API Endpoint for Updating (PUT Request)
 - Update our AutoMapper Profile
 - Overview of PATCH
@@ -130,4 +130,6 @@ set IDENTITY_INSERT Commands OFF;
 [v0.3.2]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.2
 [v0.3.3]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.3
 [v0.3.4]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.4
-[v0.3.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.5
+[v0.3.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.
+5
+[v0.3.6]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.6
