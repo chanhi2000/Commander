@@ -42,8 +42,8 @@
 - [v0.3.4][v0.3.4] :  ~~Add Annotations to DTO to avoid 500 Errors~~
 - [v0.3.5][v0.3.5] :  ~~Update Repository to Support Updates~~
 - [v0.3.6][v0.3.6] :  ~~Add a New DTO (for Updating)~~
-- Add 4th API Endpoint for Updating (PUT Request)
-- Update our AutoMapper Profile
+- [v0.3.7][v0.3.7] :  ~~Add 4th API Endpoint for Updating (PUT Request)~~
+- [v0.3.7][v0.3.7] :  ~~Update our AutoMapper Profile~~
 - Overview of PATCH
 - Install 2x packages to support PATCH
 - Update Startup
@@ -133,3 +133,4 @@ set IDENTITY_INSERT Commands OFF;
 [v0.3.5]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.
 5
 [v0.3.6]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.6
+[v0.3.7]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.7
