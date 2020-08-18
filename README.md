@@ -49,7 +49,7 @@
 - [v0.3.9][v0.3.9] :  ~~Update Startup~~
 - [v0.3.10][v0.3.10] :  ~~Update our AutoMapper Profile (Final Update)~~
 - [v0.3.11][v0.3.11] :  ~~Add 5th API Endpoint for Updating (PATCH Request)~~
-- Add 6th API Endpoint for Deleting (DELETE Request)
+- [v0.3.12][v0.3.12] :  ~~Add 6th API Endpoint for Deleting (DELETE Request)~~
 
 
 ## Build & Run
@@ -138,3 +138,4 @@ set IDENTITY_INSERT Commands OFF;
 [v0.3.9]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.9
 [v0.3.10]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.10
 [v0.3.11]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.11
+[v0.3.12]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.12
