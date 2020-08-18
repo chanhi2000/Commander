@@ -12,7 +12,7 @@
 ## PART 2 - ENTITY FRAMEWORK & SQL SERVER
 - ~~Architecture Checkpoint~~
 - ~~Set Up SQL Server App Login~~
-- [v0.1.0][v0.1.0] :  ~~Entityframework Packages~~
+- [v0.1.0][v0.1.0] :  ~~En tityframework Packages~~
 - ~~Entityframework Toolset~~
 - [v0.1.1][v0.1.1] :  ~~Create our Database Context (CommanderContext)~~
 - [v0.1.2][v0.1.2] :  ~~Our Database Connecttion String~~
@@ -48,7 +48,7 @@
 - [v0.3.8][v0.3.8] :  ~~Install 2x packages to support PATCH~~
 - [v0.3.9][v0.3.9] :  ~~Update Startup~~
 - [v0.3.10][v0.3.10] :  ~~Update our AutoMapper Profile (Final Update)~~
-- Add 5th API Endpoint for Updating (PATCH Request)
+- [v0.3.11][v0.3.11] :  ~~Add 5th API Endpoint for Updating (PATCH Request)~~
 - Add 6th API Endpoint for Deleting (DELETE Request)
 
 
@@ -137,3 +137,4 @@ set IDENTITY_INSERT Commands OFF;
 [v0.3.8]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.8
 [v0.3.9]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.9
 [v0.3.10]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.10
+[v0.3.11]: http://ginno.synology.me:3000/EDUCATION/Commander/src/v0.3.11
